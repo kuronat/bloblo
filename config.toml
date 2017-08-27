@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "ja"
+title = "bloblo"
+theme = "h5bp"
+publishDir = "docs"

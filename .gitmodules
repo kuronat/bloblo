@@ -1,0 +1,9 @@
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/hucore"]
+	path = themes/hucore
+	url = https://github.com/mgjohansen/hucore.git
+[submodule "themes/h5bp"]
+	path = themes/h5bp
+	url = https://github.com/garvincasimir/hugo-h5bp-simple.git
