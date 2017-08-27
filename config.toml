@@ -3,3 +3,6 @@ languageCode = "ja"
 title = "bloblo"
 theme = "h5bp"
 publishDir = "docs"
+
+[blackfriday]
+extensions = ["hardLineBreak"]
