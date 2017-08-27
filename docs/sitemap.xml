@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>./posts/hello-hugo/</loc>
+    <loc>https://kuronat.github.io/bloblo/posts/hello-hugo/</loc>
     <lastmod>2017-08-27T21:31:12+09:00</lastmod>
   </url>
   
   <url>
-    <loc>./categories/</loc>
+    <loc>https://kuronat.github.io/bloblo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./posts/</loc>
+    <loc>https://kuronat.github.io/bloblo/posts/</loc>
     <lastmod>2017-08-27T21:31:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./tags/</loc>
+    <loc>https://kuronat.github.io/bloblo/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>./</loc>
+    <loc>https://kuronat.github.io/bloblo/</loc>
     <lastmod>2017-08-27T21:31:12+09:00</lastmod>
     <priority>0</priority>
   </url>
